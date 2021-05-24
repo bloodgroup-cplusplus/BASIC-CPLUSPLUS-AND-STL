@@ -1,4 +1,4 @@
-*Iterator Adaptor(Predefined iterator)
+/*Iterator Adaptor(Predefined iterator)
  * -A speical, more powerful iterator
  *  1. Insert iterator
  *  2. Stream iterator
