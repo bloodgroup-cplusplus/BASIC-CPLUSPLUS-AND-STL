@@ -1,3 +1,4 @@
+// i learnt this concept from the Quantitative Bytes youtube channel check out for more
 #include<math.h>
 #include<complex>
 #include<vector>
