@@ -6,4 +6,4 @@ https://www.youtube.com/user/BoQianTheProgrammer.
 Do check out his channel from other content apart from STL as well.
 The design diagram of stl is as follows
 
-[](Screenshot (657).png)
+[](https://github.com/cl-rs/Images/blob/main/Screenshot%20(657).png)
