@@ -4,3 +4,6 @@ The learning and codes to this repo has been done from the youtube tutorials of 
 of the given codes
 https://www.youtube.com/user/BoQianTheProgrammer.
 Do check out his channel from other content apart from STL as well.
+The design diagram of stl is as follows
+
+[](Screenshot (657).png)
