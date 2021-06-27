@@ -5,7 +5,7 @@
 // s1.begin() iterator to the beginning of the string
 // s1.end() iterator pointing to the end of the string
 // like vector, string doesn't have push_front() and pop_front()
-// and because of support of iterator we can construct strings with iterators
+// and because of support of iterator we can construct strings with iterators.
 
 
 
