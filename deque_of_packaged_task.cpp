@@ -3,6 +3,7 @@
 #include<future>
 #include<thread>
 #include<deque>
+#include<list>
 std::mutex mu;
 std::condition_variable cond;
 std::deque<std::packaged_task<int()> > task_q;
