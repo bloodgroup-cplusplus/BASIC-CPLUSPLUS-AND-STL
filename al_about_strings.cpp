@@ -1,6 +1,6 @@
 // this code is just for reference..
 
-
+//
 // s1.front();// refrence to first character 'G'
 // s1.back();//reference to last character 'e'
 // s1.push_back('z');//append character
